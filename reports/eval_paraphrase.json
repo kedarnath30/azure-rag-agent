@@ -1,0 +1,44 @@
+{
+  "n_questions": 8,
+  "metrics": {
+    "hit@1": 0.375,
+    "hit@3": 0.75,
+    "hit@5": 0.75,
+    "mrr": 0.521,
+    "answer_has_citation": 0.75,
+    "answer_cites_expected_doc": 0.625,
+    "answer_contains_keywords": 0.375
+  },
+  "failures": [
+    {
+      "question": "My grandmother passed away. How much paid time can I take?",
+      "expected_doc": "bereavement-leave",
+      "rank": 3,
+      "answer": "Brightwater Analytics gives every full-time employee paid time off for vacation and personal needs. [1] Bereavement leave gives you paid time to grieve and handle arrangements. [3]"
+    },
+    {
+      "question": "Does the company help pay for a master's degree?",
+      "expected_doc": "learning-development",
+      "rank": 3,
+      "answer": "Parents may return on a reduced schedule of 30 hours per week for the first four weeks back, at full pay. [1] Performance reviews help employees understand their impact and plan their growth. [2]"
+    },
+    {
+      "question": "I'm having a baby. How long can my partner stay home with pay?",
+      "expected_doc": "parental-leave",
+      "rank": 2,
+      "answer": "Each employee receives a one-time home office stipend of $500 to buy a desk, chair, or other ergonomic equipment. [1] Parents may return on a reduced schedule of 30 hours per week for the first four weeks back, at full pay. [2]"
+    },
+    {
+      "question": "When do raises kick in?",
+      "expected_doc": "performance-reviews",
+      "rank": null,
+      "answer": "I couldn't find that in the policy documents."
+    },
+    {
+      "question": "Can a vendor give me a gift?",
+      "expected_doc": "code-of-conduct",
+      "rank": null,
+      "answer": "I couldn't find that in the policy documents."
+    }
+  ]
+}

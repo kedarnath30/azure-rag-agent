@@ -1,0 +1,20 @@
+{
+  "n_questions": 22,
+  "metrics": {
+    "hit@1": 1.0,
+    "hit@3": 1.0,
+    "hit@5": 1.0,
+    "mrr": 1.0,
+    "answer_has_citation": 1.0,
+    "answer_cites_expected_doc": 1.0,
+    "answer_contains_keywords": 0.955
+  },
+  "failures": [
+    {
+      "question": "What is the 401(k) employer match?",
+      "expected_doc": "retirement-401k",
+      "rank": 1,
+      "answer": "Employer matching contributions fully vest after 3 years of service. [2] Brightwater Analytics offers a 401(k) retirement savings plan to help employees save for the future. [3]"
+    }
+  ]
+}

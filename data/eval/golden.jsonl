@@ -1,0 +1,22 @@
+{"question": "How many PTO days does an employee with 3 years of service get per year?", "expected_doc": "pto-policy", "expected_keywords": ["20"]}
+{"question": "How many unused PTO days can I carry over to next year?", "expected_doc": "pto-policy", "expected_keywords": ["5"]}
+{"question": "How many paid company holidays are there each year?", "expected_doc": "holidays", "expected_keywords": ["11"]}
+{"question": "What happens if a holiday falls on a Saturday?", "expected_doc": "holidays", "expected_keywords": ["Friday"]}
+{"question": "How many paid sick days do employees receive?", "expected_doc": "sick-leave", "expected_keywords": ["10"]}
+{"question": "When do I need a doctor's note for sick leave?", "expected_doc": "sick-leave", "expected_keywords": ["three consecutive"]}
+{"question": "How long is paid parental leave for the primary caregiver?", "expected_doc": "parental-leave", "expected_keywords": ["16 weeks"]}
+{"question": "How many days of bereavement leave do I get for an immediate family member?", "expected_doc": "bereavement-leave", "expected_keywords": ["5"]}
+{"question": "What percentage of the health insurance premium does the company pay?", "expected_doc": "health-insurance", "expected_keywords": ["90%"]}
+{"question": "When is open enrollment for health benefits?", "expected_doc": "health-insurance", "expected_keywords": ["November"]}
+{"question": "How often can I get new glasses under the vision plan?", "expected_doc": "dental-vision", "expected_keywords": ["24 months"]}
+{"question": "What is the 401(k) employer match?", "expected_doc": "retirement-401k", "expected_keywords": ["4%"]}
+{"question": "When do employer 401k contributions vest?", "expected_doc": "retirement-401k", "expected_keywords": ["3 years"]}
+{"question": "How many days per week can I work remotely?", "expected_doc": "remote-work", "expected_keywords": ["three days"]}
+{"question": "How much is the home office stipend?", "expected_doc": "remote-work", "expected_keywords": ["$500"]}
+{"question": "How soon must expense reports be submitted?", "expected_doc": "expense-reimbursement", "expected_keywords": ["30 days"]}
+{"question": "What is the daily meal limit when traveling for business?", "expected_doc": "expense-reimbursement", "expected_keywords": ["$75"]}
+{"question": "What is the annual learning budget?", "expected_doc": "learning-development", "expected_keywords": ["$2,000"]}
+{"question": "When are performance reviews held?", "expected_doc": "performance-reviews", "expected_keywords": ["April", "October"]}
+{"question": "Who do I contact about a laptop problem?", "expected_doc": "equipment-it", "expected_keywords": ["helpdesk"]}
+{"question": "When is an onboarding buddy assigned to new hires?", "expected_doc": "onboarding", "expected_keywords": ["first week"]}
+{"question": "How do I report a code of conduct violation anonymously?", "expected_doc": "code-of-conduct", "expected_keywords": ["ethics hotline"]}

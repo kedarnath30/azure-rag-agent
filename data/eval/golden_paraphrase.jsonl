@@ -1,0 +1,8 @@
+{"question": "My grandmother passed away. How much paid time can I take?", "expected_doc": "bereavement-leave", "expected_keywords": ["2"]}
+{"question": "Does the company help pay for a master's degree?", "expected_doc": "learning-development", "expected_keywords": ["$5,250"]}
+{"question": "I'm having a baby. How long can my partner stay home with pay?", "expected_doc": "parental-leave", "expected_keywords": ["6 weeks"]}
+{"question": "Can I spend a month working from my parents' city?", "expected_doc": "remote-work", "expected_keywords": ["four weeks"]}
+{"question": "What should I do if my work computer gets stolen?", "expected_doc": "equipment-it", "expected_keywords": ["24 hours"]}
+{"question": "When do raises kick in?", "expected_doc": "performance-reviews", "expected_keywords": ["May 1"]}
+{"question": "Is a crown covered by insurance at the dentist?", "expected_doc": "dental-vision", "expected_keywords": ["50 percent"]}
+{"question": "Can a vendor give me a gift?", "expected_doc": "code-of-conduct", "expected_keywords": ["$100"]}
